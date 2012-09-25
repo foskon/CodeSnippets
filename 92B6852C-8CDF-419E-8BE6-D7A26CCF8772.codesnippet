@@ -3,32 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>iii</string>
+	<string>ccl</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (id)init
-{
-    if(self = [super init])
-    {
-        //Init
-    }
-    return self;
-}
-</string>
+	<string>/*
+ &lt;#texto#&gt;
+ */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>43A4E1BB-A595-4DB7-BEB8-492420E16B64</string>
+	<string>92B6852C-8CDF-419E-8BE6-D7A26CCF8772</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Basic Init</string>
+	<string>Comentario largo</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

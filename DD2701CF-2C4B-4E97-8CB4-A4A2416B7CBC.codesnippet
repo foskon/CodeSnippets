@@ -3,32 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ccc</string>
+	<string>ccs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- &lt;#Method desc#&gt;
- 
- @param &lt;#param name#&gt; &lt;#desc#&gt;
- */</string>
+	<string>/* &lt;#texto#&gt; */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>00EEE63F-7686-4ACE-836B-72BE978E4E45</string>
+	<string>DD2701CF-2C4B-4E97-8CB4-A4A2416B7CBC</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>/**
- &lt;#Method desc#&gt;
- 
- @param &lt;#param name#&gt; &lt;#desc#&gt;
- */</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Documenta Método</string>
+	<string>Comentario Corto</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
