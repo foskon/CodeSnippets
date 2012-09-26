@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ccs</string>
+	<string>ccl</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/* &lt;#texto#&gt; */</string>
+	<string>/**
+ &lt;#comentario largo#&gt;
+ */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DD2701CF-2C4B-4E97-8CB4-A4A2416B7CBC</string>
+	<string>609418B8-5FE3-4DBA-9CA7-4BC61B764198</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Comentario largo</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Comentario Corto</string>
+	<string>Comentario largo</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
