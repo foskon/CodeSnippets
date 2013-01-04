@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ccl</string>
+	<string>NSLogBool</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/*
- &lt;#texto#&gt;
- */</string>
+	<string>    NSLog(@"cell notifImage is hidden, %@,[[cell notifImage] isHidden]? @"YES":@"NO");</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>92B6852C-8CDF-419E-8BE6-D7A26CCF8772</string>
+	<string>83BD78AA-C146-4CDA-8303-5D34F976FE4A</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Comentario largo</string>
+	<string>PrintBoolean</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
