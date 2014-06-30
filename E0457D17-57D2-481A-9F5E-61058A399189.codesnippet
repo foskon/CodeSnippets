@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>@property(nonatomic, assign) type *name;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Assign Property</string>
+	<string>Property Assign</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

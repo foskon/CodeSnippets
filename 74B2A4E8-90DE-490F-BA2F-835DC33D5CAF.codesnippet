@@ -9,7 +9,9 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - &lt;#name#&gt;</string>
+	<string>/********************************************************/
+#pragma mark - &lt;#Title#&gt;
+/********************************************************/</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>74B2A4E8-90DE-490F-BA2F-835DC33D5CAF</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -3,24 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>rrr</string>
+	<string>sss</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, retain) &lt;#type#&gt; *&lt;#name#&gt;;</string>
+	<string>@property (nonatomic, strong) &lt;#type#&gt;* &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>FAAC5D8B-035D-4EEC-A25A-EA8407263256</string>
+	<string>7D5DA962-2874-47F4-A127-3779BF5D8742</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>@property(nonatomic, retain) type *name;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property Retain</string>
+	<string>Property Strong</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
