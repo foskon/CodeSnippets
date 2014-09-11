@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sss</string>
+	<string>randomize seed</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#type#&gt;* &lt;#name#&gt;;</string>
+	<string>srand([NSDate date].timeIntervalSince1970);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>7D5DA962-2874-47F4-A127-3779BF5D8742</string>
+	<string>51A68ABB-CB83-493A-A78A-FB19F11EF0B9</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Property Strong</string>
+	<string>Change rand() seed</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property Strong</string>
+	<string>Change rand() seed</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
